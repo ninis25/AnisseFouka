@@ -7,3 +7,5 @@
   * 🎓 Pro/École : anisse.fouka@edu.univ-fcomte.fr
   * ✉️ Personnel : anisse.fkaa@gmail.com
   * 📱 iCloud : anisse.f100@icloud.com
+* 🌐 Mon site web : [anissefouka.com](https://anissefouka.com)
+* 🔗 LinkedIn : [Anisse Fouka](https://www.linkedin.com/in/anisse-fouka-825b43254/)
