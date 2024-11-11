@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ninis25
-- 👀 I’m interested in programming, new technologies, and finance.
-- 🌱 I’m currently learning advanced networking protocols and web development.
-- 💞️ I’m looking to collaborate on innovative tech projects and open-source software.
-- 📫 How to reach me: anisse.fouka@edu.univ-fcomte.fr
-  
-<!---
-ninis25/ninis25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Salut, je suis @ninis25
+* 👀 Je m'intéresse à la programmation, aux nouvelles technologies, à la cybersécurité et à la finance.
+* 🔒 Je suis passionné par la cybersécurité et j'aime partager mes connaissances dans ce domaine.
+* 🌱 J'apprends actuellement les protocoles réseau avancés et le développement web.
+* 💞️ Je cherche à collaborer sur des projets technologiques innovants et des logiciels open-source.
+* 📫 Pour me contacter : 
+  * 🎓 Pro/École : anisse.fouka@edu.univ-fcomte.fr
+  * ✉️ Personnel : anisse.fkaa@gmail.com
+  * 📱 iCloud : anisse.f100@icloud.com
