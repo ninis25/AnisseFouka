@@ -1,4 +1,4 @@
-* 👋 Salut, je suis @ninis25
+* 👋 Bonjour tout le monde, je suis @ninis25
 * 👀 Je m'intéresse à la programmation, aux nouvelles technologies, à la cybersécurité et à la finance.
 * 🔒 Je suis passionné par la cybersécurité et j'aime partager mes connaissances dans ce domaine.
 * 🌱 J'apprends actuellement les protocoles réseau avancés et le développement web.
